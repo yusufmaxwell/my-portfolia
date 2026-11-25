@@ -1,0 +1,24 @@
+# Private configuration
+.env
+.env.*
+config/secrets.php
+
+# Logs
+private_logs/
+*.log
+
+# Local testing files
+test_db.php
+test_error.php
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+# Logs
+private_log/
+private_logs/
+*.log
